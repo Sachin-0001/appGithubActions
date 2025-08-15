@@ -1,1 +1,1 @@
-## Pyhton app to demonstrate Github Actions
+## Python app to demonstrate Github Actions
